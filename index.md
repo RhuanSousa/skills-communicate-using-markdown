@@ -2,7 +2,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```java
+``` java
 public class Hello-World;
 
 public static void main(String args[]){
